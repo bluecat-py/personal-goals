@@ -19,9 +19,9 @@ Reduce freshman friction.
 
 ## TODO
 
-- [x] Learn Python
-- [x] Build Bookbot
-- [x] Learn Git
+- [x] Learn Python — Completed: 2026-05-28
+- [x] Build Bookbot — Completed: 2026-05-30
+- [x] Learn Git — Completed: 2026-06-13
 - [ ] Learn Linux
 - [ ] Learn SQL
 - [ ] Learn Object-Oriented Programming
