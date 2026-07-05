@@ -6,8 +6,8 @@
 - Become employable as a Backend Engineer.
 - Participate in IISMA or MSIB.
 - Build projects instead of only finishing courses.
-- Improve my English.
 - Stay disciplined.
+- Transition into Cybersecurity after gaining Backend experience.
 
 ---
 
@@ -32,13 +32,14 @@ Reduce freshman friction.
 
 ## Goal
 
-Programming fundamentals.
+Build strong programming fundamentals while adapting to college.
 
 ## TODO
 
 - [ ] Build Asteroids
+- [ ] Learn Functional Programming
 - [ ] Learn Data Structures & Algorithms
-- [ ] Learn Go
+- [ ] Build a Static Site Generator
 
 ---
 
@@ -46,14 +47,16 @@ Programming fundamentals.
 
 ## Goal
 
-Backend fundamentals.
+Transition into backend development.
 
 ## TODO
 
+- [ ] Learn Memory Management (C)
+- [ ] Learn Data Structures & Algorithms II
+- [ ] Learn Go
 - [ ] Learn HTTP Clients
-- [ ] Learn HTTP Protocol
-- [ ] Learn HTTP Servers
-- [ ] Build a Blog Aggregator
+- [ ] Learn Docker
+- [ ] Build one Go CLI or backend utility
 
 ---
 
@@ -61,13 +64,14 @@ Backend fundamentals.
 
 ## Goal
 
-Modern backend development.
+Strengthen backend engineering.
 
 ## TODO
 
-- [ ] Build a Static Site Generator
-- [ ] Learn Docker
-- [ ] Learn Logging & Observability
+- [ ] Build a Blog Aggregator
+- [ ] Learn Networking
+- [ ] Learn Git II
+- [ ] Build one REST API using Go
 
 ---
 
@@ -79,9 +83,11 @@ IISMA / MSIB preparation.
 
 ## TODO
 
-- [ ] Learn CI/CD
-- [ ] Learn AWS
+- [ ] Learn HTTP Servers
+- [ ] Learn Web Security
 - [ ] Improve GitHub portfolio
+- [ ] Improve project documentation
+- [ ] Deploy at least one backend project
 - [ ] Prepare CV
 - [ ] Prepare for interviews
 - [ ] Apply for IISMA
@@ -100,13 +106,17 @@ Gain experience.
 ### If accepted into IISMA / MSIB
 
 - Focus on the program.
-- Continue backend through personal projects.
+- Continue maintaining personal backend projects when practical.
 
 ### Else
 
+- [ ] Learn Cryptography
+- [ ] Learn File Servers & CDNs
 - [ ] Learn Pub/Sub Architecture
-- [ ] Continue backend projects
-- [ ] Strengthen Go
+- [ ] Learn CI/CD
+- [ ] Learn Logging & Observability
+- [ ] Learn AWS
+- [ ] Build one production-style backend service
 
 ---
 
@@ -120,8 +130,9 @@ Graduate job-ready.
 
 - [ ] Learn Kubernetes
 - [ ] Build a capstone-quality backend project
+- [ ] Deploy the capstone
+- [ ] Prepare technical interviews
 - [ ] Prepare for job applications
-- [ ] Practice technical interviews
 
 ---
 
@@ -129,20 +140,18 @@ Graduate job-ready.
 
 ## Goal
 
-Continue growing.
+Transition into Cybersecurity while working as a Backend Engineer.
 
 ## TODO
 
-- [ ] Learn Memory Management in C
-- [ ] Learn Functional Programming
-- [ ] Learn Data Structures & Algorithms II
-- [ ] Learn Cryptography
-- [ ] Learn Web Security
-- [ ] Study OWASP Top 10
-- [ ] Learn Linux Hardening
 - [ ] Complete TryHackMe
+- [ ] Study for Security+
+- [ ] Learn Linux Hardening
 - [ ] Learn Cloud Security
-- [ ] Learn Git II
+- [ ] Continue Web Security practice
+- [ ] Complete PortSwigger Web Security Academy
+- [ ] Continue building backend systems
+- [ ] Continue learning cloud technologies
 
 ---
 
@@ -150,9 +159,11 @@ Continue growing.
 
 - Learn before class whenever practical.
 - Use class as reinforcement.
-- Build projects.
+- Build projects after learning concepts.
 - Prioritize understanding over memorization.
-- Consistency beats intensity.
-- Finish what I start.
 - Fundamentals before frameworks.
 - Backend first. Security later.
+- Consistency beats intensity.
+- Finish what I start.
+- Do not skip unfinished fundamentals.
+- Optimize for long-term retention rather than short-term completion.
